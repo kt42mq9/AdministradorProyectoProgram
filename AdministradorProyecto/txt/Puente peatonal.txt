@@ -1,0 +1,44 @@
+Puente peatonal
+Costo total: $815.0
+Lista de actividades:
+1.  Simentar  $410.0
+Fecha inicial: Tue Apr 14 16:54:28 CDT 2020
+-----Lider:
+-------GAGM001215   Misael  $1000.0
+-----Colaborador:
+-------TREJO   Sofia   Arquitecta  $800.0
+-------LA012345   Luislao   Albañil  $200.0
+-----Recurso:
+-------cemento   50.0
+-------cemento   50.0
+-------cemento   50.0
+-------cemento   50.0
+-------cemento   50.0
+-------varilla   15.0
+-------varilla   15.0
+-------grava   60.0
+-------CocaLight   14.0
+-------CocaLight   14.0
+-------CocaLight   14.0
+-------CocaLight   14.0
+-------CocaLight   14.0
+-----Objetivos:
+-------1.Conseguir resistencia en el suelo.
+2.  Colar  $405.0
+Fecha inicial: Tue Apr 14 16:54:28 CDT 2020
+-----Lider:
+-------LUPE123   Guadalupe  $1000.0
+-----Colaborador:
+-------TREJO   Sofia   Arquitecta  $800.0
+-------AMMJ09   Jorge   Cuchara chica  $200.0
+-----Recurso:
+-------cemento   50.0
+-------cemento   50.0
+-------cemento   50.0
+-------varilla   15.0
+-------grava   60.0
+-------grava   60.0
+-------arena   80.0
+-------cal   40.0
+-----Objetivos:
+-------1.Obtener arena fina
